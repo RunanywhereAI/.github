@@ -1,6 +1,8 @@
 # RunAnywhere
 
-RunAnywhere is a research-led inference company. Use frontier open models through Wally's API and CLI today. Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens.
+Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens.
+
+RunAnywhere is a research-led inference company. You can use frontier open models through Wally's API and CLI today.
 
 Sanchit Monga and Shubham Malhotra met at RIT in 2019 and started RunAnywhere in 2025 to run AI on the devices people already own. After YC W26 and the open-source SDKs, our AI agents built engines for Apple silicon and Hexagon NPUs. Wally launched in September 2026 because the models people wanted no longer fit on a phone or laptop. We open-sourced trnRT for AWS Trainium in October.
 
