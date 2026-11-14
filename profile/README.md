@@ -4,7 +4,7 @@ Inference research at the frontier. We make frontier open models faster and chea
 
 You can use them today through Wally's OpenAI-compatible API and CLI.
 
-Sanchit Monga and Shubham Malhotra met at RIT in 2019 and started RunAnywhere in 2025 to run AI on the devices people already own. After YC W26 and the open-source SDKs, we built engines for Apple silicon and Hexagon NPUs. Wally launched in September 2026 because the models people wanted no longer fit on a phone or laptop. We open-sourced trnRT for AWS Trainium in October.
+Sanchit Monga and Shubham Malhotra met at RIT in 2019 and started RunAnywhere in 2025 to run AI on the devices people already own. After Y Combinator and the open-source SDKs, we built engines for Apple silicon and Hexagon NPUs. Wally launched in September 2026 because the models people wanted no longer fit on a phone or laptop. We open-sourced trnRT for AWS Trainium in October.
 
 ## Research
 
